@@ -62,8 +62,11 @@ oop_concepts/
 
 ## 🧪 Use Cases
   ✅ Use it as a reference notebook while learning Python.
+  
   ✅ Use it to teach others—each example is ready to demonstrate.    
+  
   ✅ Use it in your coding practice routine.
+  
   ✅ Copy snippets into your own projects to reuse.
 
 ---
